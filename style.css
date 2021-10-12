@@ -15,7 +15,7 @@
 }
 
 .squre1 {
-    min-height: 135px;
+    min-height: 100px;
     background-color:darkgray ;
     width: 50%;
     float: left;
@@ -25,7 +25,7 @@
 
 
 .squre2 {
-    min-height: 135px;
+    min-height: 100px;
     background-color: darksalmon ;
     width: 50%;
     float: right;
@@ -36,7 +36,7 @@
 
 
 .contact {
-    min-height: 135px;
+    min-height: 100px;
     background-color: yellow;
     width: 33.33%;
     float: left;
@@ -45,7 +45,7 @@
 
 
 .blog {
-    min-height: 135px;
+    min-height: 100px;
     background-color: green;
     width: 33.33%;
     float: left;
@@ -53,7 +53,7 @@
 }
 
 .feature {
-    min-height: 135px;
+    min-height: 100px;
     background-color: darkred;
     width: 33.33%;
     float: left;
